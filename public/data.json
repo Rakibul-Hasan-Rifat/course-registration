@@ -1,0 +1,75 @@
+[
+    {
+      "id": "abc123def",
+      "course_name": "Introduction to C Programming",
+      "description": "Get started with the fundamentals of C programming. Learn the basics of C syntax, control structures, functions, and more. Perfect for beginners.",
+      "price": 49.99,
+      "credit": 3,
+      "img_url": "https://i.ibb.co/CzHvfV4/c-programming.png"
+    },
+    {
+      "id": "456xyz789",
+      "course_name": "Introduction to Algorithms",
+      "description": "Explore the fundamentals of algorithm design and implementation. Learn to solve computational problems efficiently with sorting and more.",
+      "price": 59.99,
+      "credit": 4,
+      "img_url": "https://i.ibb.co/Sy9Jgtg/algorithm.png"
+    },
+    {
+      "id": "pqr456stu",
+      "course_name": "Introduction to C++ for DSA",
+      "description": "Master C++ for DSA. Explore DSA with hands-on  exercises. Ideal for coding interviews and building strong problem-solving skills.",
+      "price": 54.99,
+      "credit": 3,
+      "img_url": "https://i.ibb.co/Y7MsqrB/cpp.png"
+    },
+    {
+      "id": "123abc456",
+      "course_name": "Basic Data Structures",
+      "description": "Master C++ for DSA. Explore data structures and algorithms. Ideal for coding interviews and competitive programming. Boost your programming career today!",
+      "price": 69.99,
+      "credit": 5,
+      "img_url": "https://i.ibb.co/gFS0cLT/data-sctructure.png"
+    },
+    {
+      "id": "mno789xyz",
+      "course_name": "Introduction to OOP Python",
+      "description": "Unlock the power of Python's object-oriented programming. Learn to design and build reusable code. Elevate your Python programming skills today.",
+      "price": 79.99,
+      "credit": 6,
+      "img_url": "https://i.ibb.co/cvkJHjH/oop-with-py.png"
+    },
+    {
+      "id": "efg123hij",
+      "course_name": "Software Engineering",
+      "description": "Dive into the world of software engineering. Master the entire software development lifecycle, from requirements and design to testing and maintenance.",
+      "price": 89.99,
+      "credit": 7,
+      "img_url": "https://i.ibb.co/fShVN9t/software.png"
+    },
+    {
+      "id": "456uvw789",
+      "course_name": "AWS, Cloud Computing",
+      "description": "Embark on a journey into the cloud with AWS. Explore the fundamentals of cloud computing. Learn to manage applications in the cloud.",
+      "price": 64.99,
+      "credit": 4,
+      "img_url": "https://i.ibb.co/yfFYYqH/aws.png"
+    },
+    {
+      "id": "xyz123abc",
+      "course_name": "Database and SQL Fundamentals",
+      "description": "Unlock the core of database management. Learn to design efficient and structured databases. Master SQL, the language for data manipulation and retrieval.",
+      "price": 49.99,
+      "credit": 3,
+      "img_url": "https://i.ibb.co/Y2DtM30/database.png"
+    },
+    {
+      "id": "lmn456opq",
+      "course_name": "Problem-Solving Part",
+      "description": "Enhance your problem-solving skills. Learn systematic approaches to tackle complex issues, make informed decisions, and find creative solutions.",
+      "price": 74.99,
+      "credit": 5,
+      "img_url": "https://i.ibb.co/VJpPTbT/devops-ci.png"
+    }
+  ]
+  
