@@ -17,10 +17,10 @@ function Main() {
 
     const cardBtnClickHandler = (id, course_name, credit, price) => {
         const newEnrolledCourse = { id, course_name, credit, price };
-        setEnrolledCourses([...enrolledCourses, newEnrolledCourse]);
-        setTotalCredit(totalCredit + credit);
-        setRemainingCredit(pervRemainingCredit => pervRemainingCredit - credit);
-        setPrice(prevPrice => prevPrice + price)
+        totalCredit + credit <= 20 && setPrice(prevPrice => prevPrice + price)
+        totalCredit + credit <= 20 && setEnrolledCourses([...enrolledCourses, newEnrolledCourse]);
+        totalCredit + credit <= 20 && setRemainingCredit(pervRemainingCredit => pervRemainingCredit - credit);
+        totalCredit + credit > 20 ? alert('You can take mostly 20 credits') : setTotalCredit(totalCredit + credit);
     }
 
     return (
