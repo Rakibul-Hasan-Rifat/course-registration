@@ -1,4 +1,4 @@
-# [Course Registration](https://storied-palmier-2cf5e2.netlify.app/)
+# [Course Registration deployed in netlify](https://storied-palmier-2cf5e2.netlify.app/)
 
 ### 3 Project Features
     - Update price on every course registration
